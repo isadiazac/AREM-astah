@@ -4,6 +4,16 @@ Este repositorio guía a estudiantes y desarrolladores en el uso de **Astah UML 
 
 ---
 
+## Ejercicios realizados
+
+### Sistema de Citas
+
+![Sistema de Citas](./recursos/imagenes/sistema-citas.png)
+
+### Concesionario
+
+![Concesionario](./recursos/imagenes/Concesionario.png)
+
 ## 🧩 ¿Qué es Astah UML?
 
 [Astah UML](https://astah.net/products/astah-uml/) es una herramienta de modelado visual gratuita para estudiantes, que permite crear diagramas UML como:
